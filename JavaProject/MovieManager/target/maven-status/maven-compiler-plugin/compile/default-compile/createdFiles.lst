@@ -1,0 +1,13 @@
+hr\algebra\view\models\DirectorTableModel.class
+hr\algebra\main\LoginManager.class
+hr\algebra\view\login\Register.class
+hr\algebra\view\login\Login.class
+hr\algebra\view\login\Login$2.class
+hr\algebra\parser\rss\RssMovieParser$1.class
+hr\algebra\view\models\ActorTableModel.class
+hr\algebra\parser\rss\RssMovieParser.class
+hr\algebra\parser\rss\RssMovieParser$TagType.class
+hr\algebra\view\login\Login$1.class
+hr\algebra\view\login\Register$1.class
+hr\algebra\main\LoginManager$1.class
+hr\algebra\view\models\MovieTableModel.class
